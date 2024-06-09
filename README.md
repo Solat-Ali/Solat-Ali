@@ -5,7 +5,7 @@
 
 Thanks for checking out my profile! <br/> 
 
-I have 8 years of hands-on experience in software development. Even though I started out as a full-stack engineer working in C# and Javascript, from the past 2-3 years I have fully transitioned into being a front-end engineer specializing in Angular. I have had experience working independently, as part of a team, and also leading technical teams on small to large scale projects with varying levels of complexity and scale. 
+I have 7+ years of hands-on experience in software development. Even though I started out as a full-stack engineer working in C# and Javascript, from the past 2-3 years I have fully transitioned into being a front-end engineer specializing in Angular. I have had experience working independently, as part of a team, and also leading technical teams on small to large scale projects with varying levels of complexity and scale. 
 
 <br/> 
 
