@@ -9,7 +9,7 @@ I am a senior software engineer with 8 years of professional experience (Front-E
 
 🌐 Front-End: Angular, TypeScript/JavaScript, RxJS, NX, NGXS, Less/Sass, PWAs, Electron.js <br/> 
 💻 Back-End: C#, ASP.NET Core <br/> 
-🎨 UI Styling: Ant-Design, Angular Material Design, PrimeNG, ngZorro, BEM, Tailwind CSS, Bootstrap <br/> 
+🎨 UI/UX: Ant-Design, Angular Material Design, PrimeNG, ngZorro, BEM, Tailwind CSS, Bootstrap <br/> 
 🛠️ Tools: Figma, Zeplin, Miro <br/>
 🚀 Deployments: GitHub, GitLab, Bitbucket, Vercel, Netlify, Surge <br/>
 🔍 Currently Exploring: NGRX, AnalogJS, Cypress, Playwright, Astro <br/>
