@@ -18,7 +18,7 @@ I have hands-on experience across all stages of software development and adept a
 
 I believe my proactive nature, coupled with strong communication and technical skills, allows me to quickly get up to speed with any codebase, add maximum value in a relatively short period, and effectively communicate ideas and discuss requirements with technical teams and stakeholders. I also have experience working as a freelance/independent contractor with clients all over the world, successfully delivering several high-quality projects with 5-star reviews. <br/>
 
-🌐I'm open to remote opportunities, both contract and full-time positions. If you have anything interesting for me, let's have a 15-min free call:  <br/>
+🌐I'm open to remote opportunities, both contract and full-time positions. If you have anything interesting for me, let's have a chat:  <br/>
 https://calendly.com/solat-ali/chat <br/>
 
 Looking forward to connecting and discussing your needs or questions! <br/>
