@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solat-ali&label=Profile%20views&color=0e75b6&style=flat" alt="solat-ali" /> </p>
 
-I am a senior frontend engineer with 8.5+ years of professional experience. 
+I am a senior frontend engineer with 8+ years of professional experience. 
 
 **Core Skills:**
 
