@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Solat Ali</h1>
 <h3 align="center">Senior Frontend Engineer (Angular) | Full-Stack Background: C# </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=solat-ali&label=Profile%20views&color=0e75b6&style=flat" alt="solat-ali" /> </p>
-
 I am a senior frontend engineer with 8+ years of professional experience. 
 
 **Core Skills:**
