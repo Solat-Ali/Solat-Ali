@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Solat Ali</h1>
-<h3 align="center">Senior Full Stack Engineer (Frontend Specialist) | Angular | C# | Node </h3>
+<h3 align="center">Senior Full Stack Engineer (Frontend Specialist) | Angular | C# | Node </
 
 - Senior Full Stack Engineer with 8+ years of experience, specializing in enterprise-grade web applications using TypeScript, JavaScript, C#/.NET, and SQL, with additional experience in Node.js/Electron <br/>
-- Frontend focused with expertise in Angular and frontend architecture, capable of working across frameworks like React / Vue
-- Proven track record of building complex, high-performance, scalable applications across multiple domains (Testimonials)
+- Frontend focused with expertise in Angular and frontend architecture, capable of working across frameworks like React / Vue 
+- Proven track record of building complex, high-performance, scalable applications across multiple domains ([*Testimonials*](https://senja.io/p/linkedin-vAP/7KFUbHT))
 - Demonstrated leadership skills and managed small to medium sized teams, consulted on projects and mentored students
 - Recognized for exceptional attention to detail, high caliber of work, 95% and above bug-free code and strong communication skills
 - Proven track record for end-to-end delivery of software applications, contributing to architecture, documentation, and product release, with foundational Cloud/DevOps knowledge
