@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solat Ali</h1>
-<h3 align="center">Senior Full Stack Engineer (Frontend Specialist) | Angular | C# | Node </
+<h3 align="center">Senior Full Stack Engineer (Frontend Specialist) | Angular | C# | Node </h3>
 
 - Senior Full Stack Engineer with 8+ years of experience, specializing in enterprise-grade web applications using TypeScript, JavaScript, C#/.NET, and SQL, with additional experience in Node.js/Electron <br/>
 - Frontend focused with expertise in Angular and frontend architecture, capable of working across frameworks like React / Vue 
