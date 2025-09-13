@@ -2,7 +2,7 @@
 <h3 align="center">Senior Full Stack Engineer (Frontend Specialist) | Angular | C# | Node </h3>
 
 - Senior Full Stack Engineer with 8+ years of experience, specializing in enterprise-grade web applications using TypeScript, JavaScript, C#/.NET, and SQL, with additional experience in Node.js/Electron <br/>
-- Frontend focused with expertise in Angular and frontend architecture, capable of working across frameworks like React / 
+- Frontend focused with expertise in Angular and frontend architecture, capable of working across frameworks like React / Vue
 - Proven track record of building complex, high-performance, scalable applications across multiple domains (Testimonials)
 - Demonstrated leadership skills and managed small to medium sized teams, consulted on projects and mentored students
 - Recognized for exceptional attention to detail, high caliber of work, 95% and above bug-free code and strong communication skills
