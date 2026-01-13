@@ -1,23 +1,29 @@
 <h1 align="center">Hi 👋, I'm Solat Ali</h1>
-<h3 align="center">Software Engineer | Frontend Focused (Angular, Typescript, Javascript) </h3>
+<p align="center"><b>Senior Software Engineer | AI + Frontend Focused | Angular Architect | Typescript, Javascript, C#, Node </b></p>
 
-- Senior Software Engineer with 9 years of experience, specializing in enterprise-grade web applications using TypeScript, JavaScript, C#/.NET, and SQL, with additional experience in Node.js/Electron <br/>
-- Frontend focused with expertise in Angular and frontend architecture, capable of working across frameworks like React / Vue 
-- Proven track record of building complex, high-performance, scalable applications across multiple domains ([*Testimonials*](https://senja.io/p/linkedin-vAP/7KFUbHT))
-- Demonstrated leadership skills and managed small to medium sized teams, consulted on projects and mentored students
-- Recognized for exceptional attention to detail, high caliber of work, 95% and above bug-free code and strong communication skills
-- Proven track record for end-to-end delivery of software applications, contributing to architecture, documentation, and product release, with foundational Cloud/DevOps knowledge
-- Quick to ramp up on new codebases and technologies, minimizing onboarding time and accelerating delivery
+I build scalable, high-performance web applications that bridge complex business logic with stable user experiences. 
 
-<h3>Technical Skills </h3>
+### 🛠 What I Focus On
+- **Enterprise Angular:** Architecting large-scale apps using NX, RxJS, and signals for maximum maintainability.
+- **System Modernization:** Leading migrations (e.g., Angular 12 → 15) and decoupling legacy codebases into modular architectures.
+- **Performance & DX:** Boosting load times (up to 60% reduction) and automating workflows with AI-assisted tools.
+- **Full-Stack Context:** Engineering frontend systems with a deep understanding of .NET Core/Node.js API orchestration and security.
 
-- Languages: TypeScript, JavaScript (ES6+), C#, HTML, CSS / SCSS / LESS
-- Frameworks & Libraries: Angular, RxJS, .NET (Core, MVC, Standard), NGXS, Electron.js, Tailwind CSS, Ant Design, Material UI, PrimeNG, DaisyUI, Storybook
-- Databases: SQL Server, PostgreSQL, MySQL, SQL Lite 
-- Architecture & Practices: Clean Code, Design Patterns, Domain-Driven Design (DDD), Mono-repo (NX), MVC, Agile/Scrum
-- Cloud & DevOps: Git, CI/CD, MS Azure, AWS, Vercel, Netlify, Surge, Cloudflare, 
-- UI Engineering & Tools: Mobile-First Responsive Design, Performance Optimization, Web Accessibility (WCAG/ARIA), SEO, SSR/SSG, Design Systems, Component Architecture, Figma, Zeplin, Miro 
-- CMS: WordPress, Webflow
-- AI & Productivity: OpenAI, GitHub Copilot, Claude, Windsurf, Gemini, Vertex AI
+### 🚀 Key Impact
+- **FinTech:** Architected SEC-compliant payment systems facilitating $500k+ in peak-hour transactions.
+- **Scalability:** Optimized platforms serving 250k+ users with an emphasis on web accessibility (WCAG) and SEO.
+- **Infrastructure:** Engineered N-Gram indexing strategies for SQL datasets (150k+ records), slashing lookup times from 10s to 2s.
+- **Quality:** Implemented comprehensive E2E testing (Cypress), reducing manual QA cycles by 44%.
 
-#javascript #typescript #nx #angular #node #dotnet #csharp #fullstackdeveloper #softwareengineer #softwaredeveloper #opentowork
+### 🏗 Tech Stack
+- **Languages:** TypeScript, JavaScript (ES6+), C#, HTML/CSS
+- **Frontend:** Angular (Expert), RxJS, NGXS/Signals, NX Monorepos, Electron.js
+- **Backend:** .NET Core, Web API, Node.js, SQL Server, PostgreSQL
+- **UI/UX:** Design Systems, Tailwind CSS, Storybook, Figma-to-Code
+- **Tools:** GitHub Copilot, Windsurf, CI/CD, Azure/AWS
+
+---
+
+🤝 **Open for Collaboration:** Senior/Staff Frontend or Full-Stack roles with international remote teams or relocation to the KSA region.
+
+💬 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [1:1 Call](https://cal.com/solat-ali/) | [Testimonials](https://senja.io/p/linkedin-vAP/7KFUbHT)
