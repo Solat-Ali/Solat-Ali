@@ -9,7 +9,7 @@ I build scalable, high-performance web applications that bridge complex business
 - **Performance & DX:** Boosting load times (up to 60% reduction) and automating workflows with AI-assisted tools.
 - **Full-Stack Context:** Engineering frontend systems with a deep understanding of .NET Core/Node.js API orchestration and security.
 
-### 🚀 Key Impact
+### 🚀 Key Impacts
 - **FinTech:** Architected SEC-compliant payment systems facilitating $500k+ in peak-hour transactions.
 - **Scalability:** Optimized platforms serving 250k+ users with an emphasis on web accessibility (WCAG) and SEO.
 - **Infrastructure:** Engineered N-Gram indexing strategies for SQL datasets (150k+ records), slashing lookup times from 10s to 2s.
