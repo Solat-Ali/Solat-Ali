@@ -17,7 +17,7 @@ I build scalable, high-performance web applications that bridge complex business
 
 ### 🏗 Tech Stack
 - **Languages:** TypeScript, JavaScript (ES6+), C#, HTML/CSS
-- **Frontend:** Angular (Expert), RxJS, NGXS/Signals, NX Monorepos, Electron.js
+- **Frontend:** Angular (Expert), React, Vue, RxJS, NGXS/Signals, NX Monorepos, Electron.js
 - **Backend:** .NET Core, Web API, Node.js, SQL Server, PostgreSQL
 - **UI/UX:** Design Systems, Tailwind CSS, Storybook, Figma-to-Code
 - **Tools:** GitHub Copilot, Windsurf, CI/CD, Azure/AWS
