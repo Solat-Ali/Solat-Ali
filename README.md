@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solat Ali</h1>
-<p align="center"><b>Senior Software Engineer | AI + Frontend Focused | Angular Architect | Typescript, Javascript, C#, Node </b></p>
+<p align="center"><b>Senior Software Engineer | Frontend Architect | Angular · React · Vue · TypeScript · C#/.NET · Node.js | AI-Focused | Remote/KSA </b></p>
 
 I build scalable, high-performance web applications that bridge complex business logic with stable user experiences. 
 
