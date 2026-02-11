@@ -23,6 +23,6 @@ I build scalable, high-performance web applications that bridge complex business
 
 ---
 
-🤝 **Open for Collaboration:** Senior/Staff Frontend or Full-Stack roles with international remote teams or relocation to the KSA region.
+🤝 **Open for Collaboration:** Senior/Staff Frontend or Full-Stack roles with international remote teams.
 
 💬 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [1:1 Call](https://cal.com/solat-ali/) | [Testimonials](https://senja.io/p/linkedin-vAP/7KFUbHT)
