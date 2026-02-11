@@ -4,9 +4,8 @@
 I build scalable, high-performance web applications that bridge complex business logic with stable user experiences. 
 
 ### 🛠 What I Focus On
-- **Enterprise Angular:** Architecting large-scale apps using NX, RxJS, and signals for maximum maintainability.
-- **System Modernization:** Leading migrations (e.g., Angular 12 → 15) and decoupling legacy codebases into modular architectures.
-- **Performance & DX:** Boosting load times (up to 60% reduction) and automating workflows with AI-assisted tools.
+- **Complex Applications:** Architecting large-scale apps using Typescript ecosystem.
+- **System Modernization:** Leading migrations and decoupling legacy codebases into modular architectures.
 - **Full-Stack Context:** Engineering frontend systems with a deep understanding of .NET Core/Node.js API orchestration and security.
 
 ### 🚀 Key Impacts
@@ -17,7 +16,7 @@ I build scalable, high-performance web applications that bridge complex business
 
 ### 🏗 Tech Stack
 - **Languages:** TypeScript, JavaScript (ES6+), C#, HTML/CSS
-- **Frontend:** Angular (Expert), React, Vue, RxJS, NGXS/Signals, NX Monorepos, Electron.js
+- **Frontend:** Angular, React, Vue, RxJS, NGXS/Signals, NX Monorepos, Electron.js
 - **Backend:** .NET Core, Web API, Node.js, SQL Server, PostgreSQL
 - **UI/UX:** Design Systems, Tailwind CSS, Storybook, Figma-to-Code
 - **Tools:** GitHub Copilot, Windsurf, CI/CD, Azure/AWS
