@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solat Ali</h1>
-<p align="center"><b>Senior Software Engineer | Frontend Architect | Angular · React · Vue · TypeScript · C#/.NET · Node.js | AI-Focused | Remote/KSA </b></p>
+<p align="center"><b>Senior Software Engineer | Product + Frontend Focused | Angular · React · Vue · TypeScript · C#/.NET · Node.js </b></p>
 
 I build scalable, high-performance web applications that bridge complex business logic with stable user experiences. 
 
@@ -23,6 +23,6 @@ I build scalable, high-performance web applications that bridge complex business
 
 ---
 
-🤝 **Open for Collaboration:** Senior/Staff Frontend or Full-Stack roles with international remote teams.
+🤝 **Open for Collaboration:** Senior/Staff Frontend or Full-Stack (Frontend Focused) roles with international remote teams.
 
-💬 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [1:1 Call](https://cal.com/solat-ali/) | [Testimonials](https://senja.io/p/linkedin-vAP/7KFUbHT)
+💬 **Let’s Connect:** [Portfolio](https://www.solatali.dev) | [LinkedIn](https://www.linkedin.com/in/solat-ali) | [1:1 Call](https://cal.com/solat-ali/)
